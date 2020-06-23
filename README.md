@@ -1,2 +1,11 @@
-# student_app_api_node
-Created backend of API and and admin for student app
+# Student APP
+
+# Installation
+
+- Clone this repository
+
+- Rename .env.prod to .env and fill credentials.
+
+- npm install
+
+- npm start
